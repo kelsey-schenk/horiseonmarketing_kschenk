@@ -1,7 +1,7 @@
 # horiseonmarketing_kschenk
 
 # Purpose
-To make a website that specializes in online brand management more acessible.
+To make a website that specializes in online brand management more accessible.
 
 # Built With
 * HTML
